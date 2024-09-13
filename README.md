@@ -75,6 +75,7 @@ The meter is very easy to assemble.  After stuffing the Printed Circuit Board wi
 
 ### ESR Resources
 Description of included PDF files relevant to this project:
+- [Insert Analog_Panel_Meter.pdf - **Meter Cutout**](./ESR_resources/Insert Analog_Panel_Meter.pdf)
 - Insert Analog_Panel_Meter.pdf - **Meter Cutout**
 - sboa068.pdf Burr - **Burr Brown App Note Absolute Value Circuits**
 - Schmitt_Trigger_Oscillators.pdf - **Schmitt Trigger Oscillators**
