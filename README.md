@@ -6,7 +6,7 @@
 
 ![ESR Meter](./images/ESR-MeterBook.png)
 
-<img src="./images/ESR-MeterBook.png" width="500">
+<img src="./images/ESR-MeterBook.png" width="512">
 
 ## Introduction
 The ESR Meter is basically an AC Ohmmeter with special scales and protective circuitry. It provides a continuous reading of series resistance in electrolytic capacitors. It operates at 100 kHz to keep the capacitive reactance factor near zero. The remaining series resistance is due to the electrolyte between the capacitor plates and indicates the state of dryness. Capacitor termination problems also show up plainly due to the continuous ohmic reading.
@@ -32,16 +32,20 @@ Versions of the following programs:
 
 ##### 3D KiCad Rendering
 ![ESR Meter](./images/ESR_top-01.png)
+<img src="./images/" width="512">
 This project uses a depreciated version of KiCad (Version 5.0.2-5 Mac OSX). At some point in the future I hope to update this to a newer version. For now the files for making the PCB are open source on OSH Park.  Boards can be ordered directly from them as well.
 - [**OSH Park ESR Meter Boards**](https://oshpark.com/shared_projects/dSvuQNhP)
 
 ##### PCB Top View
 ![ESR Meter](./images/ESR-Meter_Top.png)
+<img src="./images/ESR-Meter_Top.png" width="512">
 ##### PCB Bottom View
 ![ESR Meter](./images/ESR-Meter_Bottom.png)
+<img src="./images/ESR-Meter_Bottom.png" width="512">
 
 ## Meter Case
 ![ESR Meter](./images/ESR_MeterCase.png)
+<img src="./images/ESR_MeterCase.png" width="512">
 I found the OpenSCAD code for the case on Thingverse:
 - [**Thingverse-Ultimate Box Maker**](https://www.thingiverse.com/thing:2938921)
 
@@ -58,20 +62,25 @@ In the OpenScad file **ESR_Box_all.scad** the extra holes in the top of the case
 ## Meter Scale
 The Meter scale graphic was created using **Inkscape**.  
 ![ESR Meter](./images/ESR_MeterScale.png)
+<img src="./images/ESR_MeterScale.png" width="512">
 ## Assembly of ESR Meter
 The meter is very easy to assemble.  After stuffing the Printed Circuit Board with components wires can be attached to to the PCB.  These wires can then be attached to the components in the case.  That includes potentiometer with integrated on/off switch, the binding posts and the 9V battery clip.  Two images are provided to show those connections.  When completed the PCB can be turned over and bolted to the back of the meter.  The meter acts as a holding device for the circuit board.
 
 #### Stuffed Board
 ![ESR Meter](./images/ESR_Board_Stuffed.png)
+<img src="./images/ESR_Board_Stuffed.png" width="512">
 
 #### Wiring to Potentiometer, Binding Posts, & Battery Clip
 ![ESR Meter](./images/ESR_Assemble-1.png)
+<img src="./images/ESR_Assemble-1.png" width="512">
 
 #### Closer View of Internal Wiring
 ![ESR Meter](./images/ESR_Assemble-2.png)
+<img src="./images/ESR_Assemble-2.png" width="512">
 
 #### Board Attached to the Meter
 ![ESR Meter](./images/ESR_Assemble-3.png)
+<img src="./images/ESR_Assemble-3.png" width="512">
 
 ### ESR Resources
 Description of included PDF files relevant to this project:
