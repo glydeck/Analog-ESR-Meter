@@ -16,7 +16,7 @@ Versions of the following programs:
 - [**KiCad EDA**](https://www.kicad.org/)
 - [**OpenSCAD**](https://openscad.org/)
 - [**Inkscape**](https://github.com/inkscape/inkscape)
-- The files in this repository
+- [**The files in this repository**](https://github.com/glydeck/Analog-ESR-Meter)
 ## Contents
 
 ```
