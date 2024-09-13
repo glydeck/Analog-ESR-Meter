@@ -45,7 +45,7 @@ This project uses a depreciated version of KiCad (Version 5.0.2-5 Mac OSX). At s
 I found the OpenSCAD code for the case on Thingverse:
 - [**Thingverse-Ultimate Box Maker**](https://www.thingiverse.com/thing:2938921)
 
-The original code and conncept can be traced back to the French Blog **Hearty GFX** 
+The original code and conncept can be traced back to the French Blog **Hearty GFX**: 
 - [**Hearty GFX**](http://heartygfx.blogspot.com/2016/01/the-ultimate-box-maker.html)
  
 The code has been maintained and improved on by Joel Ebel on GitHub:
