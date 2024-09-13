@@ -30,7 +30,7 @@ Versions of the following programs:
 
 ##### 3D KiCad Rendering
 <img src="./images/ESR_top-01.png" width="512">
-<img src="./images/" width="512">
+
 This project uses a depreciated version of KiCad (Version 5.0.2-5 Mac OSX). At some point in the future I hope to update this to a newer version. For now the files for making the PCB are open source on OSH Park.  Boards can be ordered directly from them as well.
 - [**OSH Park ESR Meter Boards**](https://oshpark.com/shared_projects/dSvuQNhP)
 
