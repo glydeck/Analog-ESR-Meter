@@ -39,6 +39,7 @@ This project uses a depreciated version of KiCad (Version 5.0.2-5 Mac OSX). At s
 
 ##### PCB Top View
 <img src="./images/ESR-Meter_Top.png" width="512">
+
 ##### PCB Bottom View
 <img src="./images/ESR-Meter_Bottom.png" width="512">
 
