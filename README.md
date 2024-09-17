@@ -7,6 +7,12 @@
 <img src="./images/ESR-MeterBook.png" width="512">
 
 ## Introduction
+This ESR Meter is an updated version of two articles written by me for Elektor Magazine.
+
+- [**Elektor**](https://www.elektormagazine.com/)
+- [**A Simple Analog ESR Meter**](https://www.elektormagazine.com/labs/a-simple-analog-esr-meter)
+- [**My First PCB**](https://www.elektormagazine.com/magazine/elektor-261/60678)
+
 The ESR Meter is basically an AC Ohmmeter with special scales and protective circuitry. It provides a continuous reading of series resistance in electrolytic capacitors. It operates at 100 kHz to keep the capacitive reactance factor near zero. The remaining series resistance is due to the electrolyte between the capacitor plates and indicates the state of dryness. Capacitor termination problems also show up plainly due to the continuous ohmic reading.
 
 Additional information including parts list, schematic and circuit description can be found in the file **ESR Meter Manual.pdf**
