@@ -44,6 +44,8 @@ This project uses a depreciated version of KiCad (Version 5.0.2-5 Mac OSX). At s
 <img src="./images/ESR-Meter_Bottom.png" width="512">
 
 ## Meter Case
+
+##### Meter Case Rendered in Blender
 <img src="./images/ESR_MeterCase.png" width="512">
 
 I found the OpenSCAD code for the case on Thingverse:
@@ -58,6 +60,14 @@ The code has been maintained and improved on by Joel Ebel on GitHub:
 The **Box Maker** code does not accomidate adding holes to the top or bottom of the case.  It also dose not accomidate custom geometries, such as the battery holder, being added to the inside of the box.
 
 In the OpenScad file **ESR_Box_all.scad** the extra holes in the top of the case and battery holder are included at the end of the file. These added geometries including holes for the meter, potentiometer, added battery cage are included starting on line 419.  The Battery holder runs from line 432 to line 487. The holes for the meter, switch and text are difference geometries subtracted from the case. This code runs from line 496 thru line 569.
+
+### STL Files
+
+There are two sets of STL files that are 3D printer ready.  I used Cura to generate the the G-Code for my printer and printed the case with an Creality Ender Model 3 printer.
+
+The version one folder has a seperate bracket to help hold the 9 volt battery in place.  This piece would need to be glued in place on the bottom shell wall.
+
+The version two folder this bracket is integral to the print of the bottom shell of the case.
 
 ## Meter Scale
 The Meter scale graphic was created using **Inkscape**.  
