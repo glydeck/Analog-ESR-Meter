@@ -72,7 +72,7 @@ In the OpenScad file **ESR_Box_all.scad** the extra holes in the top of the case
 
 ### STL Files
 
-There are two sets of STL files that are 3D printer ready.  I used Cura to generate the the G-Code for my printer and printed the case with an Creality Ender Model 3 printer.
+There are two sets of STL files that are 3D printer ready.  I used Cura to generate the the G-Code for my printer and printed the case with a Creality Ender Model 3 printer.
 
 The version one folder has a seperate bracket to help hold the 9 volt battery in place.  This piece would need to be glued in place on the bottom shell wall.
 
