@@ -61,6 +61,9 @@ The **Box Maker** code does not accomidate adding holes to the top or bottom of 
 
 In the OpenScad file **ESR_Box_all.scad** the extra holes in the top of the case and battery holder are included at the end of the file. These added geometries including holes for the meter, potentiometer, added battery cage are included starting on line 419.  The Battery holder runs from line 432 to line 487. The holes for the meter, switch and text are difference geometries subtracted from the case. This code runs from line 496 thru line 569.
 
+##### Meter Case Rendered in OpenSCAD
+<img src="./images/OpenSCAD_CaseRender.png" width="512">
+
 ### STL Files
 
 There are two sets of STL files that are 3D printer ready.  I used Cura to generate the the G-Code for my printer and printed the case with an Creality Ender Model 3 printer.
