@@ -63,7 +63,7 @@ The original code and conncept can be traced back to the French Blog **Hearty GF
 The code has been maintained and improved on by Joel Ebel on GitHub:
 - [**GitHub-Ultimate Box Maker**](https://github.com/jbebel/Ultimate-Box-Maker)
 
-The **Box Maker** code does not accomidate adding holes to the top or bottom of the case.  It also dose not accomidate custom geometries, such as the battery holder, being added to the inside of the box.
+The **Box Maker** code does not accomidate adding holes to the top or bottom of the case.  It also does not accomidate custom geometries, such as the battery holder, being added to the inside of the box.
 
 In the OpenScad file **ESR_Box_all.scad** the extra holes in the top of the case and battery holder are included at the end of the file. These added geometries including holes for the meter, potentiometer, added battery cage are included starting on line 419.  The Battery holder runs from line 432 to line 487. The holes for the meter, switch and text are difference geometries subtracted from the case. This code runs from line 496 thru line 569.
 
